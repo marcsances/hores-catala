@@ -1,6 +1,6 @@
 {
   "name": "horescatala",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Funció per a formatar les dates en català",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
