@@ -1,6 +1,6 @@
 # horescatala
 
-[![npm version](https://badge.fury.io/js/hores-catala.svg)](https://www.npmjs.com/package/horescatala)
+[![npm version](https://badge.fury.io/js/horescatala.svg)](https://www.npmjs.com/package/horescatala)
 
 This package provides a method to convert Date instances with a given time to the corresponding Catalan bell (classic)
 time format.
