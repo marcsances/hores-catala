@@ -1,0 +1,32 @@
+{
+  "name": "horescatala",
+  "version": "0.1.0",
+  "description": "Funció per a formatar les dates en català",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": "github:marcsances/hores-catala",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "date",
+    "data",
+    "dates",
+    "utility"
+  ],
+  "author": "Marc Sances",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.10",
+    "jest": "^29.7.0",
+    "typescript": "^5.3.2",
+    "@babel/core": "^7.23.3",
+    "@babel/preset-env": "^7.23.3",
+    "@babel/preset-typescript": "^7.23.3",
+    "babel-jest": "^29.7.0"
+  },
+  "files": ["/dist"]
+}
